@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ori Shalhon! 👋
 
-<!--
-**OriShalhon/OriShalhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+## GitHub Stats
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=OriShalhon&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/ori-shalhon-136a54144/)
+
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=cpp,js,ts,python,java)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,tailwind)
+
+#### Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,docker,fastapi,django)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,pytorch,jenkins,githubactions,heroku,pycharm)
