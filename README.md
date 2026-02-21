@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! 🌟
 
-## GitHub Stats
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=OriShalhon&show_icons=true&theme=radical)
-
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/ori-shalhon-136a54144/)
 
